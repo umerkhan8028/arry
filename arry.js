@@ -1,8 +1,8 @@
 // Declare and initialize an empty multidimensional array in JavaScript
-var empty_multidimensional_array = new Array(rows);
-for (var i = 0; i < rows; i++) {
-    empty_multidimensional_array[i] = [];
-}
+// var empty_multidimensional_array = new Array(rows);
+// for (var i = 0; i < rows; i++) {
+//     empty_multidimensional_array[i] = [];
+// }
 
 
 // Declare and initialize the multidimensional array representing the matrix
